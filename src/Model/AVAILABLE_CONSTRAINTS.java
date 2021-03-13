@@ -1,0 +1,5 @@
+package Model;
+
+public enum AVAILABLE_CONSTRAINTS {
+    NOT_NULL, MAX_LENGTH, MAX_SIZE, MAX_VALUE;
+}
